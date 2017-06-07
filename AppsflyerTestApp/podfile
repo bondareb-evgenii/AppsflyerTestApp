@@ -6,4 +6,5 @@ workspace 'AppsflyerTestApp.xcworkspace'
 target 'AppsflyerTestApp' do
   project 'AppsflyerTestApp.xcodeproj'
   pod 'AFNetworking'
+  pod 'AppsFlyerFramework', '4.7.6'
 end
